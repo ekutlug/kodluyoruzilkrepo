@@ -1,5 +1,7 @@
 # Kodluyoruz ILk Repo
-Bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html brandırıyor.
+Bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html brandırıyor.
+
+!(https://github.com/ekutlug/kodluyoruzilkrepo/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
 
 ##Installation 
 Öncelikle prejeyi clonlayın.
